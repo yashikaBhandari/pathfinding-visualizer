@@ -102,8 +102,13 @@ graph-pathfinding-visualizer/
 ---
 
 ## 📸 Screenshots
+![Uploading Screenshot 2025-05-24 at 5.34.08 PM.png…]()
 
-*(You can add screenshots or GIFs here to visualize your project)*
+
+
+
+![Uploading Screenshot 2025-05-24 at 5.34.27 PM.png…]()
+
 
 ---
 
