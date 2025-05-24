@@ -28,7 +28,7 @@ An **interactive pathfinding visualizer** built using **Python** and **Pygame** 
 
 ```bash
 git clone https://github.com/yashikaBhandari/pathfinding-visualizer.git
-cd graph-pathfinding-visualizer
+cd pathfinding-visualizer
 ```
 
 ### 2. Set Up Environment (Optional but Recommended)
