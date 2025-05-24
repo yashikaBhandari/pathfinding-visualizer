@@ -74,30 +74,6 @@ python3 main.py
 ---
 
 
-+-------------------------------------------------+
-|                                                 |
-|   S = Start Node (Green)                         |
-|   E = End Node (Red)                             |
-|   ■ = Wall (Black)                              |
-|   ○ = Empty Walkable Node (White)               |
-|   ▓ = Visited Nodes during search (Blue/Yellow)|
-|   ★ = Final Path (Purple)                        |
-|                                                 |
-|  How to interact:                                |
-|  1. Left-click once to place Start (S)          |
-|  2. Left-click again to place End (E)            |
-|  3. Left-click & drag to draw Walls (■)          |
-|  4. Press Spacebar (or assigned key) to start    |
-|     algorithm visualization                      |
-|                                                 |
-|  Example grid:                                   |
-|                                                 |
-|  ○ ○ ○ ○ ○ ○ ○ ○ ○ ○                             |
-|  ○ S ○ ■ ■ ○ ○ ○ E ○                             |
-|  ○ ○ ○ ■ ○ ○ ○ ■ ■ ○                             |
-|  ○ ○ ○ ■ ○ ○ ○ ○ ○ ○                             |
-|                                                 |
-+-------------------------------------------------+
 
 ## 🧠 Algorithms Explained
 
