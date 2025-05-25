@@ -104,12 +104,13 @@ graph-pathfinding-visualizer/
 ---
 
 ## 📸 Screenshots
-![Uploading Screenshot 2025-05-24 at 5.34.08 PM.png…]()
 
 
+![Demo Image 1](assets/demo1.png)
 
 
-![Uploading Screenshot 2025-05-24 at 5.34.27 PM.png…]()
+![Demo Image 2](assets/demo2.png)
+
 
 
 ---
